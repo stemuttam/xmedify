@@ -38,6 +38,6 @@
 `Axios`
 
 
-- <a href="https://medify-azure.vercel.app/" target="_blank">Click here for demo</a>
+- <a href="https://xmedify-woad.vercel.app/" target="_blank">Click here for demo</a>
 
 **Had fun building!** 🚀
